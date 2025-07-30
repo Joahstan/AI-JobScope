@@ -1,6 +1,5 @@
-# AI-JobScope
 
-# 🤖 JOB-AI-Agent
+# 🤖 AI-JobScope
 
 An intelligent AI agent built with LLMs to analyze and interact with job descriptions. This Streamlit-based app enables smart insights from structured and unstructured job data using modern LLM APIs.
 
@@ -14,18 +13,20 @@ An intelligent AI agent built with LLMs to analyze and interact with job descrip
 - 🔐 **Secure Config** – Uses `.streamlit/secrets.toml` to store API keys securely (not pushed to GitHub)  
 
 ---
-
+````
 ## 📁 Project Structure
 
-```plaintext
-job_descriptions/
+
+
+job\_descriptions/
 ├── .streamlit/
 │   └── secrets.toml         # API keys (do not commit this file)
 ├── 30company new----.json   # Sample job descriptions
 ├── llm.py                   # Core logic using LLM
-├── stm_agnt.py              # Streamlit agent handler
-├── streamlit_llm.py         # Main Streamlit entry point
+├── stm\_agnt.py              # Streamlit agent handler
+├── streamlit\_llm.py         # Main Streamlit entry point
 ├── README.md                # Project documentation
+
 ````
 
 ---
@@ -37,7 +38,7 @@ job_descriptions/
 ```bash
 git clone https://github.com/Adityai1411/JOB-AI-Agent.git
 cd JOB-AI-Agent
-```
+````
 
 ### 2. Create and Activate Virtual Environment
 
@@ -93,21 +94,13 @@ This tool was built to automate the analysis of job descriptions using cutting-e
 
 ## 👤 Author
 
-**Parikshit Yedale**
-🔗 [GitHub](https://github.com/Joahstan)
+**Aditya Ingale**
+🔗 [GitHub](https://github.com/Adityai1411)
 
 ---
 
-## ⚖️ License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ```
 
 ---
-
-Let me know if you'd like to add:
-- ✅ Badges (Python version, Streamlit, etc.)
-- ✅ Screenshot of the UI
-- ✅ Deployment instructions (like Streamlit Cloud)
-```
