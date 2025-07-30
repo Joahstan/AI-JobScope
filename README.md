@@ -94,8 +94,8 @@ This tool was built to automate the analysis of job descriptions using cutting-e
 
 ## 👤 Author
 
-**Aditya Ingale**
-🔗 [GitHub](https://github.com/Adityai1411)
+**Parikshit Yedale**
+🔗 [GitHub](https://github.com/Joahstan)
 
 ---
 
