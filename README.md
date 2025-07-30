@@ -36,7 +36,7 @@ job\_descriptions/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Adityai1411/JOB-AI-Agent.git
+git clone https://github.com/codedbyparikshit/AI-JobScope.git
 cd JOB-AI-Agent
 ````
 
@@ -95,7 +95,7 @@ This tool was built to automate the analysis of job descriptions using cutting-e
 ## 👤 Author
 
 **Parikshit Yedale**
-🔗 [GitHub](https://github.com/Joahstan)
+🔗 [GitHub](https://github.com/codedbyparikshit)
 
 ---
 
