@@ -101,5 +101,4 @@ This tool was built to automate the analysis of job descriptions using cutting-e
 
 
 
-```
 
